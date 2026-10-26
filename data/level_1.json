@@ -1,18 +1,18 @@
 {
-    "id": 5555555,
-    "name": "ULTIMATE FIVES",
+    "id": 12345,
+    "name": "LEVEL TEST",
     "author": "FDLBricks",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "creators": ["FDLBricks"],
     "verifier": "Zinc",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/watch?v=gB8slBPlOjc",
     "percentToQualify": 55,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "LPop",
+            "user": "FDLBricksLIVE",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
